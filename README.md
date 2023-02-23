@@ -1,3 +1,10 @@
+
+<h1><a href = "https://nykaabynic.netlify.app/">Nykaa</h1>
+This website aims to replicate the user interface and user experience of the original Nykaa website.
+<img src = "https://user-images.githubusercontent.com/119485192/220864005-fb71c8e7-5640-45f4-bc78-5cac246db2ee.PNG" />
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
